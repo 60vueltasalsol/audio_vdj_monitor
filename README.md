@@ -67,7 +67,7 @@ Microsoft inserta al final de la cadena **CAudioLimiter**, un limitador
 ## Instalación
 
 ```powershell
-git clone https://github.com/<tu-usuario>/aud-vdj-mon-01.git
+git clone https://github.com/60vueltasalsol/audio_vdj_monitor.git
 cd aud-vdj-mon-01
 python -m venv .venv
 .venv\Scripts\activate
