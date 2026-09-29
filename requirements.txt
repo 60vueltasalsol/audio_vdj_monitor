@@ -1,0 +1,6 @@
+# AUD-VDJ-MON-01 · dependencias
+# Tkinter se distribuye con el instalador oficial de Python para Windows
+# (marcar "tcl/tk and IDLE"); en distribuciones Linux: apt install python3-tk
+
+soundcard>=0.4.2   # Captura WASAPI Loopback vía MediaFoundation / Core Audio
+numpy>=1.22.0      # Cálculo vectorial de envolventes de pico
